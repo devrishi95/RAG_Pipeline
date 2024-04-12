@@ -1,0 +1,7 @@
+langchain
+chromadb
+notebook
+streamlit
+unstructured
+"unstructured[pdf]"
+langchain-community
