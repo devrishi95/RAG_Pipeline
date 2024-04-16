@@ -3,5 +3,5 @@ chromadb
 notebook
 streamlit
 unstructured
-"unstructured[pdf]"
+unstructured[pdf]
 langchain-community
