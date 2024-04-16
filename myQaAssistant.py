@@ -16,7 +16,7 @@ from langchain.chains import RetrievalQA
 
 
 ## Define the paths to the local files
-URL = r"D:/projec/Rag_Pipeline/documents"
+URL = r"documents/"
 # Load data from local files
 data = DirectoryLoader(URL)
 
